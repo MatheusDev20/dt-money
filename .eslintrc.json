@@ -24,6 +24,7 @@
     "rules": {
         "react-hooks/rules-of-hooks": "error",
         "react-hooks/exhaustive-deps": "warn",
+        "eslint no-confusing-arrow": "off",
         "react/jsx-filename-extension": [
 	    1,
 	{
